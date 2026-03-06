@@ -10,6 +10,10 @@ The application uses AI-based face detection to identify emotions such as **Happ
 🔗 Live Website:  
 https://vibe-sync-wpus.onrender.com
 
+LogIn :
+email : test@test.com
+password : test
+
 ---
 
 ## 🚀 Features
